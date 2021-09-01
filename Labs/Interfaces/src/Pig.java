@@ -1,12 +1,12 @@
 public class Pig implements IAnimal {
-  private String name;
+    private String name;
 
-  public Pig(String name) {
-    this.name = name;
-  }
+    public Pig(String name) {
+        this.name = name;
+    }
 
-  @Override
-  public String makeSound() {
-    return name + " says: oink oink oink!";
-  }
+    @Override
+    public String makeSound() {
+        return name + " says: oink oink oink!";
+    }
 }

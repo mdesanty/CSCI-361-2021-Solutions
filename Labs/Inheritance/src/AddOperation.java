@@ -1,14 +1,14 @@
 public class AddOperation extends BinaryOperation {
-  public AddOperation() {
-    super();
-  }
+    public AddOperation() {
+       super();
+    }
 
-  public AddOperation(int leftOperand, int rightOperand) {
-    super();
-  }
+    public AddOperation(int leftOperand, int rightOperand) {
+        super();
+    }
 
-  @Override
-  public int execute() {
-    return getLeftOperand() + getRightOperand();
-  }
+    @Override
+    public int execute() {
+        return getLeftOperand() + getRightOperand();
+    }
 }

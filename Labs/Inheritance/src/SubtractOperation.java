@@ -4,7 +4,7 @@ public class SubtractOperation extends BinaryOperation {
     }
 
     public SubtractOperation(int leftOperand, int rightOperand) {
-        super();
+        super(leftOperand, rightOperand);
     }
 
     @Override

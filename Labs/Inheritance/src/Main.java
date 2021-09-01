@@ -7,17 +7,17 @@ public class Main {
 
         /* Expected output:
         *
-        * Left operand: 0
-        * Right operand: 0
-        * Result: 0
+        * Left operand: 4
+        * Right operand: 2
+        * Result: 6
         *
         * Left operand: -1
         * Right operand: 4
         * Result: 3
         *
-        * Left operand: 0
-        * Right operand: 0
-        * Result: 0
+        * Left operand: 4
+        * Right operand: 2
+        * Result: 2
         *
         * Left operand: -1
         * Right operand: 4

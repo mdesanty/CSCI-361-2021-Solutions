@@ -1,3 +1,3 @@
 public interface IAnimal {
-  public String makeSound();
+    public String makeSound();
 }
